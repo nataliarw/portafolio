@@ -10,18 +10,19 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
-  background-color: aqua;
+  background-color: #bdc6d5;
 }
 
 .page-wrapper {
   display: grid;
   place-items: center;
   text-align: center;
+  padding: 10%;
 }
 
 h1 {
   color: black;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Source Sans Pro";
   font-size: 5em;
   letter-spacing: -0.04em;
 }
